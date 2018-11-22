@@ -10,3 +10,6 @@ serde = "1.0"
 serde_derive = "1.0"
 serde_yaml = "0.8"
 shell-words = "0.1.0"
+
+[badges]
+travis-ci = { repository = "jamessan/drowsy", branch = "master" }
